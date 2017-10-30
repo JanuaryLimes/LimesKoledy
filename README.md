@@ -1,2 +1,3 @@
 # LimesKoledy
-LimesKoledy
+
+Aplikacja z tekstami kolęd.
