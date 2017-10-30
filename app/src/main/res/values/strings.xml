@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LimesKoledy</string>
+     <string name="obrazek">obrazek</string>
+    <string name="action_search">Szukaj</string>
+    <string name="jasny">Jasny</string>
+    <string name="ciemny">Ciemny</string>
+</resources>
